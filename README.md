@@ -5,7 +5,7 @@
 * [Subscribe](https://rapidapi.com/api-sports/api/covid-193) to get a API token
 * Replace `<discord-token>` in index.js with your Discord bot's token
 * Replace `<api-token>` in index.js with the API's token
-* Run `node index.js`
+* Run `node cough-19/index.js`
 
 ## Customise:
 Change the values in index.js to change the bot's output.
